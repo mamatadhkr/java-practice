@@ -1,0 +1,4 @@
+interface LibraryRules {
+
+    void borrowedBooks();
+}
