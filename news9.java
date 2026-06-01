@@ -3,7 +3,7 @@ import java.awt.*;
 import javax.imageio.ImageIO;
 import java.io.File;
 
-git add News9.java news.jpg sports.jpg .gitignorepublic class News9 extends JPanel {
+class News9 extends JPanel {
 
     Image mainImage;
     Image sportsImage;
